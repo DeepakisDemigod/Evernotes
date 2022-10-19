@@ -9,7 +9,7 @@ export default class NotesView {
         this.onNoteDelete = onNoteDelete;
         this.root.innerHTML = `
             <div class="notes__sidebar">
-                <h1>Evernotes</h1>
+                <h1>Evernote</h1>
                 <iframe src="/Quotes/quote.html" frameborder="0"></iframe>
                 <hr>
                 <br>
